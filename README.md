@@ -23,9 +23,16 @@ pip install PyPDF2
 \
 3. Download script.py and tmp.zip from my repository.\
 4. Download [Drawj2d](https://sourceforge.net/projects/drawj2d/files/) \
-5. Put `script.py` into Drawj2d/ directory \
+5. Put `script.py` into Drawj2d/ directory  (Alternative you can create your own directory and just put drawj2d into it)\
 6. Extract zip and put `tmp/` also to Drawj2d/
 
+![Example](https://github.com/Slick2DFish/winpdf2rm/grafik.png)
+![plot](https://github.com/Slick2DFish/winpdf2rm/grafik.png)
+
+<p align="center">
+  <img src="[https://github.com/Slick2DFish/winpdf2rm/grafik.png" width="350" title="hover text">
+  <img src="[https://github.com/Slick2DFish/winpdf2rm/grafik.png" width="350" alt="accessibility text">
+</p>
 
 ## Usage
 1. Put one ore multiple PDF files into Drawj2d/ 
