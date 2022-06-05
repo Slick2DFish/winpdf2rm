@@ -4,7 +4,7 @@ winpdf2rm is a script for converting pdf files int .rm files with
 the help of drawj2d (On windows). 
 
 > **I'm an electrical engineering student and not a skilled programmer (especially in accordance to python), the program could have bugs etc.
-Therefore I am not liable for any damage**
+Therefore I am not liable for any damage. Nevertheless it's runnig without problems on my computer**
 
 
 ## Requirements
