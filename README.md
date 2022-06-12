@@ -23,7 +23,7 @@ pip install PyPDF2
 \
 3. Download script.py and tmp.zip from my repository.\
 4. Download [Drawj2d](https://sourceforge.net/projects/drawj2d/files/) \
-5. Put `script.py` into Drawj2d/ directory  (Alternative you can create your own directory and just put drawj2d into it)\
+5. Put `script.py` into Drawj2d/ directory  (Alternatively you can create your own directory and just put drawj2d into it)\
 6. Extract zip and put `tmp/` also to Drawj2d/
 
 
@@ -33,7 +33,7 @@ pip install PyPDF2
 
 ## Usage
 1. Put one ore multiple PDF files into Drawj2d/ 
-2. After executing `script.py` every file that ends with *.pdf gets converted to a zip file. (This can take some time dependent on the pdf size) 
+2. After executing `script.py` every file that ends with .pdf gets converted to a zip file. (This can take some time dependent on the pdf size) 
 
 ## Contributing
 Pull requests are welcome.
